@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "careerbee",
-    "slug": "careerbee"
+    "slug": "careerbee",
+    "extra": {
+      "eas": {
+        "projectId": "b5bd73b1-afdc-4c8e-8125-00f870b08dbe"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.nikitakandwal.careerbee"
+    }
   }
 }

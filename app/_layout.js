@@ -1,5 +1,5 @@
 import { Stack } from "expo-router";
-import { useFonts } from "expo-font";
+import { useFonts } from "expo-font"; 
 // import * as SplashScreen from "expo-splash-screen";
 
 // SplashScreen.preventAutoHideAsync();
@@ -21,8 +21,8 @@ const Layout = () => {
   }
 
   return (
-    <Stack initialRouteName="home">
-      <Stack.Screen name="home" />
+    <Stack initialRouteName="home"  screenOptions={{ headerShown: false }}> 
+      <Stack.Screen name="home" /> 
     </Stack>
   )
 };
