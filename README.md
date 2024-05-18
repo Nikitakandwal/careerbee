@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/careerbee.png" alt="CareerBee Logo" width="200">
+</p>
+
 # CareerBee
 
 CareerBee is a React Native mobile application built using Expo Router that allows users to browse job openings and view details about each job. Users can navigate through a list of job openings and click on individual cards to view more information about a specific job.
